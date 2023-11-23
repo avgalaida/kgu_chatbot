@@ -1,0 +1,4 @@
+Django==4.2.7
+gunicorn==21.2.0
+strawberry_graphql_django==0.25.0
+django_cors_headers==4.3.1
