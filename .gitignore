@@ -1,0 +1,5 @@
+
+.DS_Store
+/backend/venv
+/backend/django_settings/__pycache__
+/backend/.venv
